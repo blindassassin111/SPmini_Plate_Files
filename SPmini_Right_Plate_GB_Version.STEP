@@ -2,7 +2,7 @@ ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION (( 'STEP AP214' ),
     '1' );
-FILE_NAME ('SPmini_Right_Plate.STEP',
+FILE_NAME ('SPmini_Right_Plate_GB_Version.STEP',
     '2024-09-13T15:52:31',
     ( '' ),
     ( '' ),
